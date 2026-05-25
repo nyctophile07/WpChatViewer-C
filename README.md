@@ -1,16 +1,65 @@
-# React + Vite
+💬 WhatsApp Chat Viewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight, browser-based WhatsApp chat export viewer built with React + TailwindCSS.
 
-Currently, two official plugins are available:
+View exported WhatsApp .txt chats in a clean WhatsApp-style interface — fully offline and privacy-friendly.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+✨ Features
+📂 Upload WhatsApp exported .txt chats
+💬 WhatsApp-style message bubbles
+👤 Detect participants automatically
+🔄 Choose who should appear as “Me”
+🔍 Real-time message search
+⬆⬇ Navigate search results like WhatsApp
+📅 Date separators between chat days
+📌 Sticky top header while scrolling
+⚡ Fully browser-based
+🔒 No server / no data upload
+📱 Mobile-friendly responsive UI
+🚀 Live Demo
 
-## React Compiler
+Add your GitHub Pages link here:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/
+📦 How To Use
+1. Export WhatsApp Chat
 
-## Expanding the ESLint configuration
+Inside WhatsApp:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Open Chat → ⋮ → More → Export Chat → Without Media
+
+Save the .txt file.
+
+2. Open the Website
+
+Visit the deployed app.
+
+3. Upload Chat
+
+Click:
+
+Upload Chat
+
+and select the exported .txt file.
+
+4. Explore Messages
+
+You can:
+
+search messages
+filter participants
+select who should appear as “Me”
+jump between search results
+🛠 Tech Stack
+React
+Vite
+TailwindCSS
+🧠 Privacy
+
+This app works completely inside your browser.
+
+Your chats:
+
+never leave your device
+are not uploaded anywhere
+are processed locally only
