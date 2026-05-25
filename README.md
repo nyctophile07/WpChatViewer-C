@@ -24,10 +24,10 @@ View exported WhatsApp `.txt` chats in a clean WhatsApp-style interface — full
 
 ## 🚀 Live Demo
 
-Add your GitHub Pages link here:
+GitHub Pages link here:
 
 ```txt
-https://YOUR_USERNAME.github.io/YOUR_REPOSITORY_NAME/
+https://nyctophile07.github.io/WpChatViewer-C/
 ```
 
 ---
