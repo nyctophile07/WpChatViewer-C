@@ -234,7 +234,7 @@ export default function WhatsAppChatViewer() {
         </div>
       </header>
 
-      <main className="flex-1 overflow-y-auto p-6 space-y-4 bg-[#0b141a]">
+      <main className="flex-1 overflow-y-auto px-4 md:px-10 py-6 space-y-4 bg-[#0b141a]">
         {!messages.length && !error && (
           <div className="h-full min-h-[70vh] flex items-center justify-center text-center">
             <div>
